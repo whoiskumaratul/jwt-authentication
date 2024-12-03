@@ -23,6 +23,7 @@ A simple application using Express.js and JWT (JSON Web Token) to demonstrate us
    npm install
 
 This will install the following:
+
    express: Framework for building web applications.
    jsonwebtoken: Library for creating and verifying JWT tokens.
    nodemon: Utility for automatically restarting the server during development.
