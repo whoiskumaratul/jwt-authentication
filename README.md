@@ -86,6 +86,14 @@ npm run dev
 1. Secret Key: Replace the SECRET_KEY in the code with an environment variable for better security.
 2. HTTPS: Use HTTPS in production to secure token transmission.
 
+
+### Screenshot
+
+![jwt6](https://github.com/user-attachments/assets/bece8a85-6039-48f9-9cac-9bcfbedeeaa6)
+
+
+
+
 ##  Breaking It Down JWT Authentication
 
 Link - https://www.kumaratuljaiswal.in/2024/11/breaking-it-down-jwt-authentication.html
